@@ -29,7 +29,7 @@ from commands.nsfw import nsfw
 from commands.ai_kyo import ai_kyo
 from commands.ban import ban     
 
-TOKEN = "8063573331:AAGf0w9HDOmgI9eZwv0E1s4Kup8YTq-YvRg"
+TOKEN = "7282508249:AAE3Xl-Lv1LPpv-0I8naLTUUE26TlEkAX8c"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
