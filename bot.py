@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Messa
 import time
 import os
 
-TOKEN = os.getenv("7282508249:AAE3Xl-Lv1LPpv-0I8naLTUUE26TlEkAX8c")
+TOKEN = os.getenv("7282508249:"8417357409:AAEe8AJxW5PqPpV6PkmXilwfDY0AbFLCg0A)
 PORT = int(os.environ.get("PORT", 10000))
 
 logging.basicConfig(
